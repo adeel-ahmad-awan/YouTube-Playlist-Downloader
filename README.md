@@ -14,9 +14,8 @@ This is a Python script that allows you to download videos from a YouTube playli
 
 3. **Run the Script**: Open your terminal or command prompt, navigate to the directory where you've cloned/downloaded the repository, and run the script:
 
-    ```bash
-    python ytdown.py
-    ```
+    `python ytdown.py` or
+    `python3 ytdown.py`
 
 4. **Follow the Prompts**: The script will prompt you to enter the URL of the YouTube playlist you want to download videos from. Then, choose the desired resolution (360p or 720p) for the videos.
 
